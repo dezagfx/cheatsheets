@@ -1,6 +1,4 @@
-# cheatsheets
-
-### Elasticsearch cheat sheet
+# Elasticsearch cheat sheet
 
 
 #### CURL
